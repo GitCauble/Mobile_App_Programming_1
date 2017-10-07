@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Music Mash</string>
+
+
+    <string name="category_study">Study</string>
+    <string name="category_gym">Gym</string>
+    <string name="category_sleep">Sleep</string>
+    <string name="category_work">Work</string>
+
+
+    <string name="study_signer_name1">Sam Hunt</string>
+    <string name="study_song_title1">Body Like A Back Road</string>
+    <string name="study_signer_link1">https://www.youtube.com/watch?v=Mdh2p03cRfw</string>
+
+    <string name="study_signer_name2">Dustin Lynch</string>
+    <string name="study_song_title2">Small Town Boy</string>
+    <string name="study_signer_link2">https://www.youtube.com/watch?v=BSDxUVZJwTg</string>
+
+    <string name="study_signer_name3">Luke Combs</string>
+    <string name="study_song_title3">When It Rains It Pours</string>
+    <string name="study_signer_link3">https://www.youtube.com/watch?v=uXyxFMbqKYA</string>
+
+    <string name="study_signer_name4">Thomas Rheyy</string>
+    <string name="study_song_title4">Unforgettable</string>
+    <string name="study_signer_link4">https://www.youtube.com/watch?v=_T8ml-P0GkI</string>
+
+    <string name="study_signer_name5">Jon Pardi</string>
+    <string name="study_song_title5">Heartache On The Dance Floor</string>
+    <string name="study_signer_link5">https://www.youtube.com/watch?v=Cg4Eui4sGlk</string>
+
+    <string name="study_signer_name6">Kenny Chesney</string>
+    <string name="study_song_title6">All The Pretty Girls</string>
+    <string name="study_signer_link6">https://www.youtube.com/watch?v=pksszku7l0g</string>
+
+</resources>
